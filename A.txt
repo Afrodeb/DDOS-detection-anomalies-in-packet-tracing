@@ -1,0 +1,3 @@
+UDP%%%196.92.12.3%%%196.92.12.6%%%Wed Apr 26 00:11:40 CAT 2017%%%302%%%302%%%user%%%3306%%%8080%%%Trusted%%%1
+FileMonitoring shutdown
+JdbcRuntimeExtension,  getAllSystemRAResourcesAndPools = [GlassFishConfigBean.org.glassfish.jdbc.config.JdbcResource, GlassFishConfigBean.org.glassfish.jdbc.config.JdbcResource, GlassFishConfigBean.org.glassfish.jdbc.config.JdbcResource, GlassFishConfigBean.org.glassfish.jdbc.config.JdbcConnectionPool, GlassFishConfigBean.org.glassfish.jdbc.config.JdbcConnectionPool, GlassFishConfigBean.org.glassfish.jdbc.config.JdbcConnectionPool]
